@@ -1,0 +1,5 @@
+../Core/Src/main.c:70:5:main	2
+../Core/Src/main.c:127:6:SystemClock_Config	3
+../Core/Src/main.c:163:6:HAL_TIM_IC_CaptureCallback	4
+../Core/Src/main.c:184:6:CALC_FREQ	5
+../Core/Src/main.c:215:6:Error_Handler	1
